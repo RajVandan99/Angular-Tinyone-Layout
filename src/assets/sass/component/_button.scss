@@ -1,0 +1,13 @@
+
+.pri-btn{
+    background-color: $color-primary;
+    border: 0.0625rem solid $color-primary;
+    color: $color-dark-pri;
+    transform: all 0.3s ease-in-out;
+    &:hover, 
+    &:focus, 
+    &:active{
+        background-color: $color-dark-pri;
+        color: $color-primary;
+    }
+}

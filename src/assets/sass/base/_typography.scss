@@ -1,0 +1,28 @@
+
+
+.pri-heading{
+    font-size: 2rem;
+    font-weight: 700;
+    color: $color-dark-pri;
+    margin-bottom: 1.5rem;
+}
+.sec-heading{
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: $color-secomdary;
+    margin-bottom: 1.75rem;
+}
+.para{
+    font-size: 1rem;
+    color: $color-grey-sec;
+    margin-bottom: 2.5rem;
+}
+
+.contact{
+    .pri-heading{
+        color: $color-primary;
+    }
+    .sec-heading{
+        color: $color-grey-pri;
+    }
+}

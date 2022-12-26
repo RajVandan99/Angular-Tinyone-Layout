@@ -1,0 +1,11 @@
+@import '../../../../assets/sass/abstract/variables';
+.navbar-nav {
+    .nav-item {
+        margin-left: 0.625rem;
+        .nav-link{
+            color: $color-dark;
+            font-size: 1.625rem;
+        }
+  
+    }
+}
